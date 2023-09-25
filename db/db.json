@@ -1,17 +1,7 @@
 [
-    {
-        "title": "Test Title",
-        "text": "Test text",
-        "id": 1
-    },
-    {
-        "title": "idk",
-        "text": "?",
-        "id": "80e0"
-    },
-    {
-        "title": "hello",
-        "text": "whatsup\n",
-        "id": "41ef"
-    }
+  {
+    "title": "Test Title",
+    "text": "Test text",
+    "id": 1
+  }
 ]

@@ -29,7 +29,7 @@ To help users organize there days!
 
 ## Credits
 
-myself!
+N/A
 
 ## License Info
 
@@ -45,7 +45,7 @@ positive feedback!
 
 ## Tests
 
-Try it out yourself
+Try it out yourself!
 
 ## Questions
 
@@ -56,3 +56,4 @@ Please email me here for further questions. Jadams1812@hotmail.com
 
 [Screenshot](./Assets/Screenshot%202023-09-21%20224639.png)
 [Screenshot](./Assets/Screenshot%202023-09-21%20224705.png)
+
