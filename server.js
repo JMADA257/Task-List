@@ -37,6 +37,11 @@ app.post("/api/notes", (req, res) => {
   res.json("Note was added");
 });
 
+app.delete("/api/notes/:id", (req, res) => {
+  fsUtils.deleteAndAppend(req.params.id, "./db/db./json");
+  res.json("Note was deleted!");
+});
+
 app.listen(PORT, () => {
   console.log(`Example app listenening at http://localhost:${PORT}`);
 });
